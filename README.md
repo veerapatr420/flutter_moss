@@ -19,7 +19,7 @@
 - `docs/screenshots/home.png`
 - `docs/screenshots/create-bill.png`
 - `docs/screenshots/bill-detail.png`
-- `docs/screenshots/settings.png`
+- `docs/screenshots/setting.png`
 
 จากนั้น README นี้จะแสดงภาพอัตโนมัติ:
 
@@ -36,7 +36,7 @@
 ![Bill Detail](docs/screenshots/bill-detail.png)
 
 ### Settings
-![Settings](docs/screenshots/settings.png)
+![Settings](docs/screenshots/setting.png)
 
 ## Tech Stack
 
